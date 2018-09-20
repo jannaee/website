@@ -2,7 +2,7 @@
 
 This is the source for the [babeljs.io](https://babeljs.io) website; feel free to suggest changes to our docs!
 
-> We're just switched over to a new site using https://docusaurus.io so there might be a few issues to fix
+> We have just switched over to a new site using https://docusaurus.io so there might be a few issues to fix
 
 - Current site: `master` branch is deployed to https://babeljs.io
 - Old site: `old-site` branch is deployed to https://old.babeljs.io
